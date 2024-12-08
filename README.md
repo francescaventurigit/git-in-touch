@@ -1,6 +1,6 @@
 # Git-in-Touch 👋
 
-Welcome to **Git-in-Touch**, an interactive repository to explore my journey as a software engineer specializing in Machine Learning and its applications in biomedicine.
+Welcome to **Git-in-Touch**, an interactive repository to explore my journey as a **Mathematical Engineer** specializing in Machine Learning and its applications in biomedicine.
 
 ## 🧑‍💻 About Me
 Hi, I'm Francesca Venturi, a mathematical engineer passionate about using Machine Learning to solve real-world problems, especially in the biomedical field. I'm constantly seeking challenges that combine critical thinking and cutting-edge technology.
