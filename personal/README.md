@@ -37,6 +37,7 @@ Have any podcast recommendations? Let me know—I’m always looking for the nex
 Recently, I had the opportunity to volunteer in flood-affected areas of my hometown, Bologna. It was a truly humbling and enriching experience—collaboration and solidarity are powerful forces. Moving forward, I plan to dedicate as much time as I can to volunteering. It’s a way of giving back that makes me feel genuinely useful.  
 
 ![Collage Posti](./volunteer.jpg)
+
 ---
 
 ## 🎵 & 📚 Currently Loving  

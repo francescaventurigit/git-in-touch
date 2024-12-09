@@ -45,6 +45,7 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
   Master's Thesis conducted in the [Brain Development and Biological Data Science Lab](https://www.epfl.ch/labs/nsbl/) at EPFL, supervised by **Professor Gioele LaManno**.  
 
 Here are a few memories from my graduation days in Milan and Lausanne… I think it’s pretty clear what my happy face looks like! 😋
+
 ![Collage Laurea](./collage_education.png)
 
 After a well-deserved month-and-a-half break, I began a **research fellowship** in the same EPFL lab to continue studying the role of lipids in the brain.  
