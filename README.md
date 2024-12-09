@@ -11,7 +11,7 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 - 🎓 **Education:** Double MSc in Computational Science and Engineering (EPFL + Politecnico di Milano)  
 - 🧠 **Interests:** Biomedical Machine Learning, Lipidomics, and Synthetic Data Generation  
 
-![Duvet](./copertina.jpg)
+![Duvet](./copertina.heic)
 
 ---
 
