@@ -22,11 +22,6 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 - **Born and Raised:** Bologna, Italy, where I attended an *Enhanced Scientific High School with an International Focus* (Liceo Ginnasio Luigi Galvani, Bologna).
 - **High School Graduation:** Maturità with a score of **100/100**, earning **7 IGCSE certifications** in *English, French, Maths, Physics, Geography, Biology, and Photography*.  
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-<table>
-<tr>
-<td style="width:60%; padding-right: 20px; vertical-align: top;">
-
 ### **Bachelor’s Degree (2018-2021)**  
 - **University:** Politecnico di Milano, Italy  
 - **Program:** [Mathematical Engineering](https://www.polimi.it/formazione/corsi-di-laurea/dettaglio-corso/ingegneria-matematica)  
@@ -39,14 +34,6 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
   - **Politecnico di Milano:** [Computational Science and Computational Learning](https://www.mate.polimi.it/im/?p=10#div1)  
   - **EPFL, Lausanne:** [Computational Science and Engineering](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/)  
 
-</td>
-
-<td style="width:40%; text-align: center;">  
-<img src="./education.jpeg" alt="Educational Background" style="width: 300px; border-radius: 10px;">  
-</td>
-</tr>
-</table>
-
 **Graduation Scores:**  
 - **PoliMi:** 110/110 cum laude (October 2024)  
 - **EPFL Thesis Score:** **6/6**
@@ -56,6 +43,9 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 - *Second Year:* Courses at EPFL.  
 - *Third Year:* Internship at [AXA - GO](https://careers.axa.com/global/en/axa-group-operations) on Synthetic Data Generation for Healthcare, collaborating with [Healthanea](https://www.healthanea.com/) (AXA & Microsoft spinoff).  
   Master's Thesis conducted in the [Brain Development and Biological Data Science Lab](https://www.epfl.ch/labs/nsbl/) at EPFL, supervised by **Professor Gioele LaManno**.  
+
+Here are a few memories from my graduation days in Milan and Lausanne… I think it’s pretty clear what my happy face looks like! 😋
+![Collage Laurea](./collage_education.png)
 
 After a well-deserved month-and-a-half break, I began a **research fellowship** in the same EPFL lab to continue studying the role of lipids in the brain.  
 
