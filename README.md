@@ -11,9 +11,14 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 - 🎓 **Education:** Double MSc in Computational Science and Engineering (EPFL + Politecnico di Milano)  
 - 🧠 **Interests:** Biomedical Machine Learning, Lipidomics, and Synthetic Data Generation  
 
+![Duvet](./copertina.jpg)
+
 ---
 
 ## **🎓 Educational Background**
+
+<div style="display: flex; align-items: flex-start;"> <div style="flex: 60%; padding-right: 20px;">
+
 - **Born and Raised:** Bologna, Italy, where I attended an *Enhanced Scientific High School with an International Focus* (Liceo Ginnasio Luigi Galvani, Bologna).
 - **High School Graduation:** Maturità with a score of **100/100**, earning **7 IGCSE certifications** in *English, French, Maths, Physics, Geography, Biology, and Photography*. 
 
@@ -24,7 +29,7 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
   - Scholarship for best freshmen after the first year.  
   - Graduated in **3 years with a score of 110/110 cum laude**.  
 
-### **Master’s Degree* (2021-2024)*
+### **Master’s Degree (2021-2024)**
 - **Dual Degree Path:**  
   - **Politecnico di Milano:** [Computational Science and Computational Learning](https://www.mate.polimi.it/im/?p=10#div1)  
   - **EPFL, Lausanne:** [Computational Science and Engineering](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/)  
@@ -37,12 +42,14 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 
 After a well-deserved month-and-a-half break, I began a **research fellowship** in the same EPFL lab to continue studying the role of lipids in the brain. 
 
+</div> <div style="flex: 40%; text-align: center;"> <img src="./education.jpg" alt="Educational Background" style="max-width: 100%; border-radius: 10px;"> </div> </div>
+
 ---
 
 ## **📁 Repository Overview**
 Explore the sections below to learn more:
 
-- 📜 **[CV](./CV_FrancescaVenturi.pdf):** A comprehensive overview of my academic and professional background.  
+- 📜 **[CV](./CV_FrancescaVenturi_monocol.pdf):** A comprehensive overview of my academic and professional background.  
 - 💡 **[Projects](./projects/):** Dive into my work, from VAE models for lipid metabolism to protein reconstruction and privacy-preserving techniques.  
 - 🏀 **[Personal Interests](./personal/):** Discover my journey as a basketball player, sports enthusiast, and volunteer.  
 

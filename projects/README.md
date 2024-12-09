@@ -21,7 +21,7 @@ This repository showcases the diverse projects I've worked on during my academic
 
 ## 🧠 3. Mathematical Modeling of Neurodegenerative Disorders
 - **Description:** Built a graph approximation of the cerebral network and solved non-linear PDEs to simulate neurodegenerative diseases.
-- [Report](./neurodegenerative-modelling/neurodegenerative_modelling_report.pdf) and [Presentation](./neurodegenerative-modelling/neurodegenerative_modelling_report.pdf)
+- [Report](./neurodegenerative_modelling_report.pdf) and [Presentation](./neurodegenerative_modelling_presentation.pdf)
 
 ---
 
@@ -42,7 +42,7 @@ This repository showcases the diverse projects I've worked on during my academic
 
 ## 📉 6. Sharpness-Aware Minimization for Generalization
 - **Description:** Investigated optimization techniques to improve neural network generalization by accounting for the loss function's landscape.
-- [📄 View Presentation](./sharpness-aware/sharpness_aware_report.pdf)
+- [📄 View Presentation](./sharpness_aware_report.pdf)
 
 ---
 
