@@ -17,7 +17,7 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 
 ---
 
-### **🎓 Educational Background**
+## **🎓 Educational Background**
 
 - **Born and Raised:** Bologna, Italy, where I attended an *Enhanced Scientific High School with an International Focus* (Liceo Ginnasio Luigi Galvani, Bologna).
 - **High School Graduation:** Maturità with a score of **100/100**, earning **7 IGCSE certifications** in *English, French, Maths, Physics, Geography, Biology, and Photography*.  
