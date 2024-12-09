@@ -22,9 +22,9 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 - **Born and Raised:** Bologna, Italy, where I attended an *Enhanced Scientific High School with an International Focus* (Liceo Ginnasio Luigi Galvani, Bologna).
 - **High School Graduation:** Maturità with a score of **100/100**, earning **7 IGCSE certifications** in *English, French, Maths, Physics, Geography, Biology, and Photography*.  
 
-<table>
-<tr>
-<td style="width:60%; padding-right: 20px; vertical-align: top;">
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td style="width:60%; padding-right: 20px; vertical-align: top; border: none;">
 
 ### **Bachelor’s Degree (2018-2021)**  
 - **University:** Politecnico di Milano, Italy  
@@ -34,17 +34,18 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
   - Graduated in **3 years with a score of 110/110 cum laude**.  
 
 ### **Master’s Degree (2021-2024)**  
-- **Dual Degree Path:**  
+- **Double Degree:**  
   - **Politecnico di Milano:** [Computational Science and Computational Learning](https://www.mate.polimi.it/im/?p=10#div1)  
   - **EPFL, Lausanne:** [Computational Science and Engineering](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/)  
 
 </td>
 
-<td style="width:40%; text-align: center;">  
+<td style="width:40%; text-align: center; border: none;">  
 <img src="./education.jpeg" alt="Educational Background" style="width: 300px; border-radius: 10px;">  
 </td>
 </tr>
 </table>
+
 
 **Graduation Scores:**  
 - **PoliMi:** 110/110 cum laude (October 2024)  
