@@ -30,7 +30,7 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
   - Graduated in **3 years with a score of 110/110 cum laude**.  
 
 ### **Master’s Degree (2021-2024)**  
-- **Double Degree:**  
+**Double Degree:**  
   - **Politecnico di Milano:** [Computational Science and Computational Learning](https://www.mate.polimi.it/im/?p=10#div1)  
   - **EPFL, Lausanne:** [Computational Science and Engineering](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/)  
 
