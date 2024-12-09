@@ -2,6 +2,7 @@
 
 Welcome to **Git-in-Touch**, an interactive repository to explore my journey as a **Mathematical Engineer** specializing in Machine Learning and its applications in biomedicine.
 
+![Duvet](./copertina.jpg)
 ---
 
 ## **🧑‍💻 About Me**
@@ -10,8 +11,6 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 - 🌍 **Based in:** Lausanne, Switzerland  
 - 🎓 **Education:** Double MSc in Computational Science and Engineering (EPFL + Politecnico di Milano)  
 - 🧠 **Interests:** Biomedical Machine Learning, Lipidomics, and Synthetic Data Generation  
-
-![Duvet](./copertina.jpg)
 
 ---
 
