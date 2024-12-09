@@ -2,13 +2,10 @@
 
 Welcome to **Git-in-Touch**, an interactive repository to explore my journey as a **Mathematical Engineer** specializing in Machine Learning and its applications in biomedicine. 
 
-*...But math isn't everything!* When I’m not working on models or decoding data, you’ll probably find me skiing down a mountain — because even a mathematical engineer needs some downhill momentum... with a bit more adrenaline and a lot less debugging! ⛷️❄️
+*...But math isn't everything!* When I’m not working on models, you’ll probably find me skiing down a mountain — because even an engineer needs some downhill momentum... with a bit more adrenaline and a lot less debugging! ⛷️❄️
 
 ![Duvet](./copertina.jpg)
 
-*...But math isn't everything!* When I’m not working on models or decoding data, you’ll probably find me skiing down a mountain — because even a mathematical engineer needs some downhill momentum... with a bit more adrenaline and a lot less debugging! ⛷️❄️
-
-![Duvet](./copertina.jpeg)
 ---
 
 ## **🧑‍💻 About Me**
@@ -20,34 +17,46 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 
 ---
 
-## **🎓 Educational Background**
+### **🎓 Educational Background**
 
-<div style="display: flex; align-items: flex-start;"> <div style="flex: 60%; padding-right: 20px;">
+<table>
+<tr>
+<td style="width:60%; padding-right: 20px; vertical-align: top;">
 
 - **Born and Raised:** Bologna, Italy, where I attended an *Enhanced Scientific High School with an International Focus* (Liceo Ginnasio Luigi Galvani, Bologna).
-- **High School Graduation:** Maturità with a score of **100/100**, earning **7 IGCSE certifications** in *English, French, Maths, Physics, Geography, Biology, and Photography*. 
+- **High School Graduation:** Maturità with a score of **100/100**, earning **7 IGCSE certifications** in *English, French, Maths, Physics, Geography, Biology, and Photography*.  
 
-### **Bachelor’s Degree (2018-2021)**
+### **Bachelor’s Degree (2018-2021)**  
 - **University:** Politecnico di Milano, Italy  
 - **Program:** [Mathematical Engineering](https://www.polimi.it/formazione/corsi-di-laurea/dettaglio-corso/ingegneria-matematica)  
 - **Achievements:**  
   - Scholarship for best freshmen after the first year.  
   - Graduated in **3 years with a score of 110/110 cum laude**.  
 
-### **Master’s Degree (2021-2024)**
+### **Master’s Degree (2021-2024)**  
 - **Dual Degree Path:**  
   - **Politecnico di Milano:** [Computational Science and Computational Learning](https://www.mate.polimi.it/im/?p=10#div1)  
   - **EPFL, Lausanne:** [Computational Science and Engineering](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/)  
-  - Graduated at PoliMi with 110/110 cum laude (October 2024), and thesis score **6/6** at EPFL.
 
-- **Timeline:**  
-  - *First Year:* Courses at Politecnico di Milano.  
-  - *Second Year:* Courses at EPFL.  
-  - *Third Year:* Internship at [AXA - GO](https://careers.axa.com/global/en/axa-group-operations) on Synthetic Data Generation for Healthcare, collaborating with [Healthanea](https://www.healthanea.com/) (AXA & Microsoft spinoff) and Master's Thesis conducted in the [Brain Development and Biological Data Science Lab](https://www.epfl.ch/labs/nsbl/) at EPFL, supervised by Professor Gioele LaManno.   
+**Graduation Scores:**  
+- **PoliMi:** 110/110 cum laude (October 2024)  
+- **EPFL Thesis Score:** **6/6**
 
-After a well-deserved month-and-a-half break, I began a **research fellowship** in the same EPFL lab to continue studying the role of lipids in the brain. 
+**Timeline:**  
+- *First Year:* Courses at Politecnico di Milano.  
+- *Second Year:* Courses at EPFL.  
+- *Third Year:* Internship at [AXA - GO](https://careers.axa.com/global/en/axa-group-operations) on Synthetic Data Generation for Healthcare, collaborating with [Healthanea](https://www.healthanea.com/) (AXA & Microsoft spinoff).  
+  Master's Thesis conducted in the [Brain Development and Biological Data Science Lab](https://www.epfl.ch/labs/nsbl/) at EPFL, supervised by **Professor Gioele LaManno**.  
 
-</div> <div style="flex: 40%; text-align: center;"> <img src="./education.jpg" alt="Educational Background" style="max-width: 100%; border-radius: 10px;"> </div> </div>
+After a well-deserved month-and-a-half break, I began a **research fellowship** in the same EPFL lab to continue studying the role of lipids in the brain.  
+
+</td>
+
+<td style="width:40%; text-align: center;">  
+<img src="./education.jpg" alt="Educational Background" style="max-width: 100%; border-radius: 10px;">  
+</td>
+</tr>
+</table>
 
 ---
 
