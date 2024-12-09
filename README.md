@@ -41,7 +41,7 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 </td>
 
 <td style="width:40%; text-align: center;">  
-<img src="./education.jpeg" alt="Educational Background" style="max-width: 60%; border-radius: 10px;">  
+<img src="./education.jpeg" alt="Educational Background" style="width: 300px; border-radius: 10px;">  
 </td>
 </tr>
 </table>
