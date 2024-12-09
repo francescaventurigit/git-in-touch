@@ -22,8 +22,9 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 - **Born and Raised:** Bologna, Italy, where I attended an *Enhanced Scientific High School with an International Focus* (Liceo Ginnasio Luigi Galvani, Bologna).
 - **High School Graduation:** Maturità with a score of **100/100**, earning **7 IGCSE certifications** in *English, French, Maths, Physics, Geography, Biology, and Photography*.  
 
-| **Educational Background** | ![Educational Background](./education.jpeg){ width=200px style="border-radius:10px"} |
-|----------------------------|-----------------------------------------------|
+<table>
+<tr>
+<td style="width:60%; padding-right: 20px; vertical-align: top;">
 
 ### **Bachelor’s Degree (2018-2021)**  
 - **University:** Politecnico di Milano, Italy  
@@ -37,6 +38,13 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
   - **Politecnico di Milano:** [Computational Science and Computational Learning](https://www.mate.polimi.it/im/?p=10#div1)  
   - **EPFL, Lausanne:** [Computational Science and Engineering](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/)  
 
+</td>
+
+<td style="width:40%; text-align: center;">  
+<img src="./education.jpeg" alt="Educational Background" style="width: 300px; border-radius: 10px;">  
+</td>
+</tr>
+</table>
 
 **Graduation Scores:**  
 - **PoliMi:** 110/110 cum laude (October 2024)  
