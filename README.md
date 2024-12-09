@@ -2,7 +2,9 @@
 
 Welcome to **Git-in-Touch**, an interactive repository to explore my journey as a **Mathematical Engineer** specializing in Machine Learning and its applications in biomedicine.
 
-![Duvet](./copertina.jpg)
+*...But math isn't everything!* When I’m not working on models or decoding data, you’ll probably find me skiing down a mountain — because even a mathematical engineer needs some downhill momentum... with a bit more adrenaline and a lot less debugging! ⛷️❄️
+
+![Duvet](./copertina.jpeg)
 ---
 
 ## **🧑‍💻 About Me**
