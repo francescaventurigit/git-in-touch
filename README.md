@@ -2,14 +2,14 @@
 
 Welcome to **Git-in-Touch**, an interactive repository to explore my journey as a **Mathematical Engineer** specializing in Machine Learning and its applications in biomedicine. 
 
-*...But math isn't everything!* When I’m not working on models, you’ll probably find me skiing down a mountain — because even an engineer needs some downhill momentum... with a bit more adrenaline and a lot less debugging! ⛷️❄️
-
-![Duvet](./copertina.jpg)
-
 ---
 
 ## **🧑‍💻 About Me**
 Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Machine Learning to solve real-world problems, especially in the biomedical field. I'm constantly seeking challenges that combine critical thinking and innovative technology.
+
+*...But math isn't everything!* When I’m not working on models, you’ll probably find me skiing down a mountain — because even an engineer needs some downhill momentum... with a bit more adrenaline and a lot less debugging! ⛷️❄️
+
+![Duvet](./copertina.jpg)
 
 - 🌍 **Based in:** Lausanne, Switzerland  
 - 🎓 **Education:** Double MSc in Computational Science and Engineering (EPFL + Politecnico di Milano)  
@@ -19,9 +19,9 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 
 ### **🎓 Educational Background**
 
-<table>
+<!-- <table>
 <tr>
-<td style="width:60%; padding-right: 20px; vertical-align: top;">
+<td style="width:60%; padding-right: 20px; vertical-align: top;"> -->
 
 - **Born and Raised:** Bologna, Italy, where I attended an *Enhanced Scientific High School with an International Focus* (Liceo Ginnasio Luigi Galvani, Bologna).
 - **High School Graduation:** Maturità with a score of **100/100**, earning **7 IGCSE certifications** in *English, French, Maths, Physics, Geography, Biology, and Photography*.  
@@ -50,13 +50,13 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 
 After a well-deserved month-and-a-half break, I began a **research fellowship** in the same EPFL lab to continue studying the role of lipids in the brain.  
 
-</td>
+<!-- </td>
 
 <td style="width:40%; text-align: center;">  
 <img src="./education.jpg" alt="Educational Background" style="max-width: 100%; border-radius: 10px;">  
 </td>
 </tr>
-</table>
+</table> -->
 
 ---
 
