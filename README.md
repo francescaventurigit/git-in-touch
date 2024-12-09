@@ -19,12 +19,12 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 
 ### **🎓 Educational Background**
 
-<!-- <table>
-<tr>
-<td style="width:60%; padding-right: 20px; vertical-align: top;"> -->
-
 - **Born and Raised:** Bologna, Italy, where I attended an *Enhanced Scientific High School with an International Focus* (Liceo Ginnasio Luigi Galvani, Bologna).
 - **High School Graduation:** Maturità with a score of **100/100**, earning **7 IGCSE certifications** in *English, French, Maths, Physics, Geography, Biology, and Photography*.  
+
+<table>
+<tr>
+<td style="width:60%; padding-right: 20px; vertical-align: top;">
 
 ### **Bachelor’s Degree (2018-2021)**  
 - **University:** Politecnico di Milano, Italy  
@@ -38,6 +38,14 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
   - **Politecnico di Milano:** [Computational Science and Computational Learning](https://www.mate.polimi.it/im/?p=10#div1)  
   - **EPFL, Lausanne:** [Computational Science and Engineering](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/)  
 
+</td>
+
+<td style="width:40%; text-align: center;">  
+<img src="./education.jpg" alt="Educational Background" style="max-width: 100%; border-radius: 10px;">  
+</td>
+</tr>
+</table>
+
 **Graduation Scores:**  
 - **PoliMi:** 110/110 cum laude (October 2024)  
 - **EPFL Thesis Score:** **6/6**
@@ -50,13 +58,6 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 
 After a well-deserved month-and-a-half break, I began a **research fellowship** in the same EPFL lab to continue studying the role of lipids in the brain.  
 
-<!-- </td>
-
-<td style="width:40%; text-align: center;">  
-<img src="./education.jpg" alt="Educational Background" style="max-width: 100%; border-radius: 10px;">  
-</td>
-</tr>
-</table> -->
 
 ---
 
