@@ -1,7 +1,3 @@
-Here’s the updated README for your projects, incorporating the attached reports:
-
----
-
 # My Projects 📂  
 
 This repository showcases the diverse projects I've worked on during my academic and professional journey. Each project includes a brief description and a link to a detailed report and/or presentation.
@@ -13,19 +9,25 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Highlights:**
   - Integrated prior biological knowledge for model interpretability.
   - Conducted extensive evaluation on lipidomic datasets.
-- [Report](./lipidomics-vae/lipimap_report.pdf) | [Presentation](./lipidomics-vae/lipimap_presentation.pdf)
+- [Report](./lipidomics-vae/lipimap_report.pdf) | [Presentation](./lipidomics-vae/lipimap_presentation.pdf) | Code (PRIVATE, soon available [here](https://github.com/lamanno-epfl))
+
+![LipiMap](./lipimap.png)
 
 ---
 
 ## 🧩 2. Deep Learning Models for Protein Assembly
 - **Description:** Designed a Denoising AutoEncoder to reconstruct protein structures, reducing dimensionality for data interpretability.  
-- [Presentation](./protein_assembly_presentation.pdf)
+- [Presentation](./protein_assembly_presentation.pdf) |  Code (PRIVATE, the reference model for geometric transformers is [PeSTo](https://www.nature.com/articles/))
+
+![ProtAssembley](./prot_assembley.png)
 
 ---
 
 ## 🧠 3. Mathematical Modeling of Neurodegenerative Disorders
 - **Description:** Built a graph approximation of the cerebral network and solved non-linear PDEs to simulate neurodegenerative diseases.  
 - [Report](./neurodegenerative_modelling_report.pdf) | [Presentation](./neurodegenerative_modelling_presentation.pdf)
+
+![NeuroDegen](./neurodegen.png)
 
 ---
 
@@ -40,13 +42,13 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Highlights:**  
   - Developed DQN agents with binary and complex action spaces  
   - Analyzed effectiveness of toggle-action-space and factorized Q-values approaches  
-- [Report](./reinforcement_learning_report.pdf)
+- [Report](./reinforcement_learning_report.pdf) | [Code](https://github.com/francescaventurigit/DQN_Project)
 
 ---
 
 ## 📉 6. Sharpness-Aware Minimization for Generalization
 - **Description:** Investigated optimization techniques to improve neural network generalization by accounting for the loss function's landscape.  
-- [Presentation](./sharpness_aware_report.pdf)
+- [Presentation](./sharpness_aware_report.pdf) | [Code](https://github.com/francescaventurigit/sharpness-aware_minimization)
 
 ---
 
@@ -55,7 +57,9 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Highlights:**  
   - Explored the use of different covariance kernels (Exponential and Squared Exponential).  
   - Implemented Bayesian optimization for hyperparameter tuning.  
-- [Report](./gaussian_process_regression_report.pdf) | [Presentation](./gaussian_process_regression_presentation.pdf)
+- [Report](./gaussian_process_regression_report.pdf) | [Presentation](./gaussian_process_regression_presentation.pdf) | [Code](https://github.com/francescaventurigit/Gaussian-Process-Regression)
+
+![GPR](./gpr.png)
 
 ---
 
@@ -66,13 +70,15 @@ This repository showcases the diverse projects I've worked on during my academic
   - Investigated design strategies to improve urban air quality.  
 - [Report](./pollution_urban_design_report.pdf)
 
+![ETP](./etp.png)
+
 ---
 
 ## ✈️ 9. Aerodynamic Force Prediction on Aerospace Bearings  
 - **Description:** Predicted aerodynamic forces on bearings using machine learning models, bypassing complex PDE solvers.  
 - **Highlights:**  
   - Implemented neural networks and regression models for accurate force estimation.  
-- [Report](./aerospace_bearing_report.pdf)
+- [Report](./aerospace_bearing_report.pdf) | [Code](https://github.com/francescaventurigit/ML_project2_Aerospace_Bearing)
 
 ---
 
@@ -80,7 +86,7 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Description:** Developed efficient implicit methods for solving the Eikonal equation using variational formulations.  
 - **Highlights:**  
   - Solved wave propagation and geophysical distance functions.  
-- [Report](./eikonal_equation_report.pdf)
+- [Report](./eikonal_equation_report.pdf) | [Code](https://github.com/francescaventurigit/pacs_project)
 
 ---
 
