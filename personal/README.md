@@ -17,7 +17,7 @@ I grew up in a family of sports enthusiasts, and it’s safe to say that sports 
 I'm endlessly fascinated by how new places can shape our perceptions and emotions. Traveling isn't just about seeing beautiful sights (though those are a bonus!); it's about the feelings and instincts that arise when you're immersed in different environments.  
 Here are a few snapshots of places that truly left a mark on me. 🌍📸  
 
-![Collage Posti](./collage.png)
+![Collage Posti](./content/collage.png)
 
 ---
 
@@ -36,7 +36,7 @@ Have any podcast recommendations? Let me know—I’m always looking for the nex
 ## 💙 Volunteering  
 Recently, I had the opportunity to volunteer in flood-affected areas of my hometown, Bologna. It was a truly humbling and enriching experience—collaboration and solidarity are powerful forces. Moving forward, I plan to dedicate as much time as I can to volunteering. It’s a way of giving back that makes me feel genuinely useful.  
 
-![Collage Posti](./volunteer.jpg)
+![Collage Posti](../content/volunteer.jpg)
 
 ---
 

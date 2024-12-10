@@ -9,31 +9,31 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Highlights:**
   - Integrated prior biological knowledge for model interpretability.
   - Conducted extensive evaluation on lipidomic datasets.
-- [Report](./lipidomics-vae/lipimap_report.pdf) | [Presentation](./lipidomics-vae/lipimap_presentation.pdf) | Code (PRIVATE, soon available [here](https://github.com/lamanno-epfl))
+- [Report](../content/lipimap_report.pdf) | [Presentation](../content/lipimap_presentation.pdf) | Code (PRIVATE, soon available [here](https://github.com/lamanno-epfl))
 
-![LipiMap](./lipimap.png)
+![LipiMap](../content/lipimap.png)
 
 ---
 
 ## 🧩 2. Deep Learning Models for Protein Assembly
 - **Description:** Designed a Denoising AutoEncoder to reconstruct protein structures, reducing dimensionality for data interpretability.  
-- [Presentation](./protein_assembly_presentation.pdf) |  Code (PRIVATE, the reference model for geometric transformers is [PeSTo](https://www.nature.com/articles/))
+- [Presentation](../content/protein_assembly_presentation.pdf) |  Code (PRIVATE, the reference model for geometric transformers is [PeSTo](https://www.nature.com/articles/))
 
-![ProtAssembley](./prot_assembley.png)
+![ProtAssembley](../content/prot_assembley.png)
 
 ---
 
 ## 🧠 3. Mathematical Modeling of Neurodegenerative Disorders
 - **Description:** Built a graph approximation of the cerebral network and solved non-linear PDEs to simulate neurodegenerative diseases.  
-- [Report](./neurodegenerative_modelling_report.pdf) | [Presentation](./neurodegenerative_modelling_presentation.pdf)
+- [Report](../content/neurodegenerative_modelling_report.pdf) | [Presentation](../content/neurodegenerative_modelling_presentation.pdf)
 
-![NeuroDegen](./neurodegen.png)
+![NeuroDegen](../content/neurodegen.png)
 
 ---
 
 ## 🩺 4. Parameter Estimation in PDE-Regularized Spatial Regression
 - **Description:** Optimized penalization parameters in physics-informed models for blood flow simulation in cardiovascular research.  
-- [Presentation](./pde_regularization_presentation.pdf)
+- [Presentation](../content/pde_regularization_presentation.pdf)
 
 ---
 
@@ -42,13 +42,13 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Highlights:**  
   - Developed DQN agents with binary and complex action spaces  
   - Analyzed effectiveness of toggle-action-space and factorized Q-values approaches  
-- [Report](./reinforcement_learning_report.pdf) | [Code](https://github.com/francescaventurigit/DQN_Project)
+- [Report](../content/reinforcement_learning_report.pdf) | [Code](https://github.com/francescaventurigit/DQN_Project)
 
 ---
 
 ## 📉 6. Sharpness-Aware Minimization for Generalization
 - **Description:** Investigated optimization techniques to improve neural network generalization by accounting for the loss function's landscape.  
-- [Presentation](./sharpness_aware_report.pdf) | [Code](https://github.com/francescaventurigit/sharpness-aware_minimization)
+- [Presentation](../content/sharpness_aware_report.pdf) | [Code](https://github.com/francescaventurigit/sharpness-aware_minimization)
 
 ---
 
@@ -57,9 +57,9 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Highlights:**  
   - Explored the use of different covariance kernels (Exponential and Squared Exponential).  
   - Implemented Bayesian optimization for hyperparameter tuning.  
-- [Report](./gaussian_process_regression_report.pdf) | [Presentation](./gaussian_process_regression_presentation.pdf) | [Code](https://github.com/francescaventurigit/Gaussian-Process-Regression)
+- [Report](../content/gaussian_process_regression_report.pdf) | [Presentation](../content/gaussian_process_regression_presentation.pdf) | [Code](https://github.com/francescaventurigit/Gaussian-Process-Regression)
 
-![GPR](./gpr.png)
+![GPR](../content/gpr.png)
 
 ---
 
@@ -68,9 +68,9 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Highlights:**  
   - Modeled pollutant transport using turbulence models in ANSYS Fluent.  
   - Investigated design strategies to improve urban air quality.  
-- [Report](./pollution_urban_design_report.pdf)
+- [Report](../content/pollution_urban_design_report.pdf)
 
-![ETP](./etp.png)
+![ETP](../content/etp.png)
 
 ---
 
@@ -78,7 +78,7 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Description:** Predicted aerodynamic forces on bearings using machine learning models, bypassing complex PDE solvers.  
 - **Highlights:**  
   - Implemented neural networks and regression models for accurate force estimation.  
-- [Report](./aerospace_bearing_report.pdf) | [Code](https://github.com/francescaventurigit/ML_project2_Aerospace_Bearing)
+- [Report](../content/aerospace_bearing_report.pdf) | [Code](https://github.com/francescaventurigit/ML_project2_Aerospace_Bearing)
 
 ---
 
@@ -86,7 +86,7 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Description:** Developed efficient implicit methods for solving the Eikonal equation using variational formulations.  
 - **Highlights:**  
   - Solved wave propagation and geophysical distance functions.  
-- [Report](./eikonal_equation_report.pdf) | [Code](https://github.com/francescaventurigit/pacs_project)
+- [Report](../content/eikonal_equation_report.pdf) | [Code](https://github.com/francescaventurigit/pacs_project)
 
 ---
 
@@ -94,7 +94,7 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Description:** Solved the linear elasticity problem using primal and mixed FEM formulations.  
 - **Highlights:**  
   - Applied finite elements and computed stress-strain behavior.  
-- [Report](./elasticity_problem_report.pdf)
+- [Report](../content/elasticity_problem_report.pdf)
 
 ---
 
@@ -102,6 +102,6 @@ This repository showcases the diverse projects I've worked on during my academic
 - **Description:** Conducted machine learning analysis for the ATLAS experiment’s Higgs Boson classification challenge.  
 - **Highlights:**  
   - Data cleaning, feature engineering, and predictive model development.  
-- [Report](./higgs_boson_challenge_report.pdf)
+- [Report](../content/higgs_boson_challenge_report.pdf)
 
 ---

@@ -9,7 +9,7 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 
 *...But math isn't everything!* When I’m not working on models, you’ll probably find me skiing down a mountain — because even an engineer needs some downhill momentum... with a bit more adrenaline and a lot less debugging! ⛷️❄️
 
-![Duvet](./copertina.jpg)
+![Duvet](./content/copertina.jpg)
 
 - 🌍 **Based in:** Lausanne, Switzerland  
 - 🎓 **Education:** Double MSc in Computational Science and Engineering (EPFL + Politecnico di Milano)  
@@ -46,7 +46,7 @@ Hi, I'm **Francesca Venturi**, a mathematical engineer passionate about using Ma
 
 Here are a few memories from my graduation days in Milan and Lausanne… I think it’s pretty clear what my happy face looks like! 😋
 
-![Collage Laurea](./collage_education.png)
+![Collage Laurea](./content/collage_education.png)
 
 After a well-deserved month-and-a-half break, I began a **research fellowship** in the same EPFL lab to continue studying the role of lipids in the brain.  
 
@@ -56,7 +56,7 @@ After a well-deserved month-and-a-half break, I began a **research fellowship** 
 ## **📁 Repository Overview**
 Explore the sections below to learn more:
 
-- 📜 **[CV](./CV_FrancescaVenturi_monocol.pdf):** A comprehensive overview of my academic and professional background.  
+- 📜 **[CV](./content/CV_FrancescaVenturi_monocol.pdf):** A comprehensive overview of my academic and professional background.  
 - 💡 **[Projects](./projects/):** Dive into my work, from VAE models for lipid metabolism to protein reconstruction and privacy-preserving techniques.  
 - 🏀 **[Personal Interests](./personal/):** Discover my journey as a basketball player, sports enthusiast, and volunteer.  
 
