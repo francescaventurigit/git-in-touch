@@ -17,7 +17,7 @@ I grew up in a family of sports enthusiasts, and it’s safe to say that sports 
 I'm endlessly fascinated by how new places can shape our perceptions and emotions. Traveling isn't just about seeing beautiful sights (though those are a bonus!); it's about the feelings and instincts that arise when you're immersed in different environments.  
 Here are a few snapshots of places that truly left a mark on me. 🌍📸  
 
-![Collage Posti](./content/collage.png)
+![Collage Posti](../content/collage.png)
 
 ---
 
